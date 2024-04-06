@@ -1,0 +1,6 @@
+@prjWorlde_HostAddress = http://localhost:5121
+
+GET {{prjWorlde_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
